@@ -4,7 +4,6 @@ BACKGROUND<br>
 VBA scripting is used to analyze real stock market data
 
 DETAILS<br>
-
 A script was created to loop through all the stocks for one year and output the following information.
 
 The ticker symbol.
@@ -16,7 +15,6 @@ Conditional formatting was used to highlight positive change in green and negati
 
 
 ADDITIONAL CHALLENGES INCLUDED<br>
+The script acts the same on each sheet. Script was written to run on every worksheet, i.e., every year, just by running the VBA script once and return the stock with the "Greatest % increase", "Greatest % decrease" and "Greatest total volume" 
 
-Script to run on every worksheet, i.e., every year, just by running the VBA script once and return the stock with the "Greatest % increase", "Greatest % decrease" and "Greatest total volume" 
-
-The script acts the same on each sheet. The joy of VBA is to take the tediousness out of repetitive task and run over and over again with a click of the button!
+The joy of VBA is to take the tediousness out of repetitive task and run over and over again with a click of the button!
