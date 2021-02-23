@@ -1,7 +1,7 @@
 # VBA-challenge - The VBA of Wall Street
 
-Background<br>
-VBA scripting was used to analyze real stock market data
+BACKGROUND<br>
+VBA scripting is used to analyze real stock market data
 
 DETAILS<br>
 
