@@ -12,10 +12,10 @@ The joy of VBA is to take the tediousness out of repetitive tasks that run over 
 <b>DETAILS</b><br>
 A script was created to loop through one year of stock data and output the following information.<br>
 
-  - TThe ticker symbol.
-  - TYearly change from opening price at the beginning of a given year to the closing price at the end of that year.
-  - TThe percent change from opening price at the beginning of a given year to the closing price at the end of that year.
-  - TThe total stock volume of the stock.
+  - The ticker symbol.
+  - Yearly change from opening price at the beginning of a given year to the closing price at the end of that year.
+  - The percent change from opening price at the beginning of a given year to the closing price at the end of that year.
+  - The total stock volume of the stock.
 
 Conditional formatting was used to highlight positive change in green and negative change in red.
 
