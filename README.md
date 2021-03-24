@@ -22,10 +22,12 @@ Conditional formatting was used to highlight positive change in green and negati
 <div align="center"><img src="static/images/wall_street_statues.jpg" width="500" height="500"/></div>
 <br>
 <b>ADDITIONAL CHALLENGES</b><br>
-Script was written to run on every worksheet, i.e., every year, just by running the VBA script once and return the stock with the following;<br>
+Script was written to run on every worksheet, i.e., every year, just by running the VBA script once and return the stock with the following;
+<br>
 
   - "Greatest % increase"
   - "Greatest % decrease"
   - "Greatest total volume" 
+
 <br>
 The script acts the same on each sheet. 
