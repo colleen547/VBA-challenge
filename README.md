@@ -1,7 +1,7 @@
 # VBA-challenge - The VBA of Wall Street
 
 BACKGROUND<br>
-VBA scripting is used to analyze real stock market data
+VBA scripting is used to analyze real stock market data.
 
 <div align="center"><img src="static/images/city_reflection_behind_stock_market_data.jfif" width="500" height="300"/></div>
 
@@ -21,4 +21,4 @@ The script acts the same on each sheet. Script was written to run on every works
 
 <div align="center"><img src="static/images/wall_street_statues.jpg" width="500" height="500"/></div>
 
-The joy of VBA is to take the tediousness out of repetitive task and run over and over again with a click of the button!
+<center>The joy of VBA is to take the tediousness out of repetitive task and run over and over again with a click of the button!
