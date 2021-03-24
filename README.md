@@ -4,7 +4,7 @@ BACKGROUND<br>
 
 The joy of VBA is to take the tediousness out of repetitive tasks that run over and over again with a click of the button!
 
-<div align="center"><img src="static/images/city_reflection_behind_stock_market_data.jfif" width="500" height="300"/>
+<div align="center"><img src="static/images/city_reflection_behind_stock_market_data.jfif" width="500" height="300"/><br>
 VBA scripting is used to analyze real stock market data.</div>
 
 DETAILS<br>
