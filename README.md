@@ -10,7 +10,7 @@ The joy of VBA is to take the tediousness out of repetitive tasks that run over 
 <br>
 
 <b>DETAILS</b><br>
-A script was created to loop through one year of stock data and output the following information.<br>
+A script was created to loop through one year of stock data and output the following information:<br>
 
   - The ticker symbol.
   - Yearly change from opening price at the beginning of a given year to the closing price at the end of that year.
@@ -22,7 +22,7 @@ Conditional formatting was used to highlight positive change in green and negati
 <div align="center"><img src="static/images/wall_street_statues.jpg" width="500" height="500"/></div>
 <br>
 <b>ADDITIONAL CHALLENGES</b><br>
-Script was written to run on every worksheet, i.e., every year, just by running the VBA script once and return the stock with the<br>
+Script was written to run on every worksheet, i.e., every year, just by running the VBA script once and return the stock with the following;<br>
 
   - "Greatest % increase"
   - "Greatest % decrease"
