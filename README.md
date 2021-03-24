@@ -3,7 +3,7 @@
 BACKGROUND<br>
 VBA scripting is used to analyze real stock market data
 
-<div style="text-align:center"><img src="static/images/wall_street_sign.jpg" width="1000" height="300"/></div>
+<div align="center"><img src="static/images/wall_street_sign.jpg" width="500" height="300"/></div>
 
 DETAILS<br>
 A script was created to loop through all the stocks for one year and output the following information.
