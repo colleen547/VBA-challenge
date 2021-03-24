@@ -8,7 +8,7 @@ The joy of VBA is to take the tediousness out of repetitive tasks that run over 
 <b>VBA scripting is used to analyze real stock market data.</b></div>
 
 <b>DETAILS</b><br>
-A script was created to loop through all the stocks for one year and output the following information.
+A script was created to loop through all the stocks for one year and output the following information.<br>
 
 The ticker symbol.
 Yearly change from opening price at the beginning of a given year to the closing price at the end of that year.
