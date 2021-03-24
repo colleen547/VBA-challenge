@@ -3,7 +3,7 @@
 BACKGROUND<br>
 VBA scripting is used to analyze real stock market data
 
-
+<div style="text-align:center"><img src="static/images/wall_street_sign.jpg" width="1000" height="300"/></div>
 
 DETAILS<br>
 A script was created to loop through all the stocks for one year and output the following information.
@@ -20,3 +20,5 @@ ADDITIONAL CHALLENGES INCLUDED<br>
 The script acts the same on each sheet. Script was written to run on every worksheet, i.e., every year, just by running the VBA script once and return the stock with the "Greatest % increase", "Greatest % decrease" and "Greatest total volume" 
 
 The joy of VBA is to take the tediousness out of repetitive task and run over and over again with a click of the button!
+
+<div style="text-align:center"><img src="static/images/wall_street_statues.jpg" width="1000" height="300"/></div>
