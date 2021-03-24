@@ -23,6 +23,7 @@ Conditional formatting was used to highlight positive change in green and negati
 <br>
 <b>ADDITIONAL CHALLENGES</b><br>
 The script acts the same on each sheet. Script was written to run on every worksheet, i.e., every year, just by running the VBA script once and return the stock with<br>
+
   - "Greatest % increase"
   - "Greatest % decrease"
   - "Greatest total volume" 
