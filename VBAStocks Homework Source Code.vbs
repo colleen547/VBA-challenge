@@ -4,18 +4,18 @@ Sub VBA_Homework():
 
 '=========================================================================================================================
 'Part I
-'Create a script that will loop through all the stocks for one year & output the following:
+'A script was created to loop through all the stocks for one year & output the following:
     'The ticker symbol.
     'Yearly change from opening price at the beginning of a given year to the closing price at the end of that year.
     'Percent change from opening price at the beginning of a given year to the closing price at the end of that year.
     'Total stock volume of the stock.
 
-'Have conditional formatting highlight positive change in green and negative change in red.
+'Conditional formatting was used to highlight positive change in green and negative change in red.
 
 '=========================================================================================================================
 
 'Part II - Challenge
-'Your solution will also be able to return the following:
+'Return the following:
     'The stock with the "Greatest % increase",
     'The stock with the "Greatest % decrease",and
     'The stock with the "Greatest total volume".
