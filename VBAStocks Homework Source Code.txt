@@ -17,7 +17,7 @@ Sub VBA_Homework():
 'Part II - Advanced Challenge
 'Return the following:
     'The stock with the "Greatest % increase",
-    'The stock with the "Greatest % decrease",and
+    'The stock with the "Greatest % decrease", and
     'The stock with the "Greatest total volume".
 
 '=========================================================================================================================
